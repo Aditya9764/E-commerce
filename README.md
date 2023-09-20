@@ -1,28 +1,29 @@
-# ecommerce1
+SITUATION:
+I was interning at Future-ready Talent, in collaboration with Microsoft, GitHub, and Aicte, aiming to learn and explore various technologies in the field of web development, including HTML, CSS, JS, and Azure.
 
-This is 10 Page E-commerce Front End website design
+TASK:
+I was assigned the task of creating a prototype E-commerce website integrated with a FAQ bot. The main objective was to use HTML, CSS, JS, Bootstrap, and Azure technologies to develop a functional prototype. The website aimed to showcase a catalog of products for potential customers to explore and purchase. Additionally, the FAQ bot was incorporated to promptly address customer queries.
 
-Web Technologies used: HTML, CSS, JS, Bootstrap
+ACTION:
 
-IDE: VS-Code
+Learning Azure and Self-Study:
 
-Note: Bot is deployed on contact page
+I began by completing self-learning modules on Microsoft Azure, understanding its features, and how it could be integrated into the project.
+Research and Planning:
 
-Industry*:
-Lifestyle
+Conducted research on industry trends and best practices to incorporate into the project, ensuring the website would meet modern e-commerce standards.
+Prototyping and Development:
 
-Project Title*:
-E-Commerce Website with FAQ Bot
+Utilized HTML, CSS, JS, and Bootstrap to design and develop the prototype E-commerce website, ensuring a user-friendly interface and smooth navigation.
+Integration of FAQ Bot:
 
-Problem Statement/Opportunity*:
-An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.
+Implemented a FAQ bot using Azure technologies to provide quick and automated responses to customer queries, enhancing user experience and support.
+Testing and Debugging:
 
-Project Description*:
-Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ Bot for a business company with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customer speedily via FAQ Bot . This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
+Conducted rigorous testing to ensure the website and FAQ bot functioned seamlessly across different devices and browsers, addressing and resolving any bugs or issues.
+Collaboration via GitHub:
 
-Primary Azure Technology*:
-Azure Bot Service, QnA Maker, Static Web Apps,
-
-Other Azure Technologies:
-App Service
+Leveraged GitHub for version control and collaborative development, facilitating smooth integration of code and effective teamwork.
+RESULT:
+The result of this project was a successful prototype of an E-commerce website featuring a catalog of products and an integrated FAQ bot. Users could browse through products and receive instant responses to their queries through the FAQ bot, streamlining the shopping experience. The experience gained during this internship greatly enhanced my understanding of web development and Azure technologies, providing a solid foundation for my future endeavors in the field.
 
